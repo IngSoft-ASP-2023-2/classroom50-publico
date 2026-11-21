@@ -153,6 +153,27 @@
       "mode": "individual",
       "autograder": "default",
       "empty_repo": true
+    },
+    {
+      "slug": "actividad-3",
+      "name": "Actividad 3",
+      "description": "Actividad en grupos de hasta 3 integrantes. Jueves 26 de noviembre de 2026, de 19:30 a 23:30 (hora de Uruguay, America/Montevideo, UTC-03:00). Corte de evaluación: solo se tendrá en cuenta el trabajo efectivamente subido a GitHub dentro de esa franja horaria. Los commits o pushes fuera del horario no se considerarán para la evaluación.",
+      "due": "2026-11-27T02:30:00Z",
+      "due_meta": {
+        "input": "2026-11-26T23:30:00-03:00",
+        "offset": "-03:00",
+        "source": "explicit-offset"
+      },
+      "available_from": "2026-11-26T22:30:00Z",
+      "available_from_meta": {
+        "input": "2026-11-26T19:30:00-03:00",
+        "offset": "-03:00",
+        "source": "explicit-offset"
+      },
+      "mode": "group",
+      "autograder": "default",
+      "max_group_size": 3,
+      "empty_repo": true
     }
   ]
 }
