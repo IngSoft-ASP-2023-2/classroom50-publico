@@ -1,0 +1,26 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "ASP N8B 2026 2",
+  "short_name": "asp-n8b",
+  "term": "",
+  "org": "IngSoft-ASP-2023-2",
+  "team": {
+    "id": 19537774,
+    "slug": "classroom50-asp-n8b"
+  },
+  "teams": {
+    "teacher": {
+      "id": 19537775,
+      "slug": "classroom50-asp-n8b-teacher"
+    },
+    "hta": {
+      "id": 19537776,
+      "slug": "classroom50-asp-n8b-hta"
+    },
+    "ta": {
+      "id": 19537777,
+      "slug": "classroom50-asp-n8b-ta"
+    }
+  },
+  "pages_base_url": "https://raw.githubusercontent.com/IngSoft-ASP-2023-2/classroom50-publico/main"
+}
