@@ -1,0 +1,26 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "ASP M8B 2026 2",
+  "short_name": "asp-m8b",
+  "term": "",
+  "org": "IngSoft-ASP-2023-2",
+  "team": {
+    "id": 19537780,
+    "slug": "classroom50-asp-m8b"
+  },
+  "teams": {
+    "teacher": {
+      "id": 19537781,
+      "slug": "classroom50-asp-m8b-teacher"
+    },
+    "hta": {
+      "id": 19537782,
+      "slug": "classroom50-asp-m8b-hta"
+    },
+    "ta": {
+      "id": 19537783,
+      "slug": "classroom50-asp-m8b-ta"
+    }
+  },
+  "pages_base_url": "https://raw.githubusercontent.com/IngSoft-ASP-2023-2/classroom50-publico/main"
+}
